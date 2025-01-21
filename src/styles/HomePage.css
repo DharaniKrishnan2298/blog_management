@@ -1,0 +1,14 @@
+.home-page {
+    text-align: center;
+    padding: 2rem;
+  }
+  
+  .home-page h2 {
+    color: #6200ea;
+    margin-bottom: 1.5rem;
+  }
+  
+  .home-page .blog-list {
+    margin-top: 2rem;
+  }
+  
